@@ -197,7 +197,7 @@ return {
     lisp = { "Common Lisp", "lisp" },
     log = { "Log file", "code" },
     lsp  = { "Common Lisp", "lisp" },
-    lua = { "Lua", "lua" },
+    lua = { "Lua", "https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/lua.png" },
     m = { "MATLAB", "matlab" },
     markdown = { "Markdown", "markdown" },
     mat = { "MATLAB", "matlab" },
