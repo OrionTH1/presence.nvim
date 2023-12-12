@@ -251,7 +251,7 @@ return {
     tk = { "Tcl/Tk", "tcl" },
     tl = { "Teal", "teal" },
     toml = { "TOML", "toml" },
-    ts = { "TypeScript", "https://raw.githubusercontent.com/leonardssh/vscord/main/assets/icons/typescript-def.png" },
+    ts = { "TypeScript", "https://downloadly.ir/wp-content/uploads/2021/04/UIDev-TypeScript-300x300.png" },
     tsx = { "React", "react" },
     txt = { "Text file", "text" },
     uc = { "UnrealScript", "unreal" },
