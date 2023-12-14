@@ -183,7 +183,7 @@ return {
     ipynb = { "Jupyter Notebook", "jupyter" },
     java = { "Java", "java" },
     jl = { "Julia", "julia" },
-    js = { "JavaScript", "https://github.com/leonardssh/vscord/blob/main/assets/icons/js.png" },
+    js = { "JavaScript", "javascript" },
     json = { "JSON", "json" },
     jsx = { "React", "react" },
     ksh = { "KornShell script", "shell" },
